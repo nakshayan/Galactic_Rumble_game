@@ -1,4 +1,6 @@
 Made by: Action
+
+Made this a while ago.
  
 Note:
 If you experience any lag, I've marked a few sprites that you can completely comment out (I put them in for appearance for things like the background).
